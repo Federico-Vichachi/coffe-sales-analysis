@@ -1,0 +1,12 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+*.zip
+*.xlsx
+*.csv
+*.json
+kaggle.json
+data/
+output/
+venv/
